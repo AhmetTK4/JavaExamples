@@ -1,4 +1,4 @@
-package com.atk.comparator;
+package com.atk.maxsalary;
 
 public class Employee {
     String name;

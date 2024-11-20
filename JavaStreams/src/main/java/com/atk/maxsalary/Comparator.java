@@ -1,4 +1,4 @@
-package com.atk.comparator;
+package com.atk.maxsalary;
 
 import java.util.ArrayList;
 
